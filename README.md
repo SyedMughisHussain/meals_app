@@ -1,16 +1,18 @@
 # Meals app
 
-A new Flutter project.
+About the app and its features.
 
-## Getting Started
+## Preview
+#### <pre> 1.Explore recipies.                         2.Filters & Favorites.</pre>
+<pre>
+<a href="https://imgflip.com/gif/38rpqi"><img src="https://i.imgflip.com/38rpqi.gif" title="made at imgflip.com"/></a>      <a href="https://imgflip.com/gif/38rptn"><img src="https://i.imgflip.com/38rptn.gif" title="made at imgflip.com"/></a><br/>
+</pre>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.Navigating through pages.<br/>
+2.You can add Favourites.<br/>
+3.Bottom navigation bar.<br/>
+4.Drawer feature for attracting UI<br/>
+5.Filters for choosing meals.
